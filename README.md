@@ -118,6 +118,7 @@ I have utiised a Diabestes prediction model which utilizes 11 features and 918 s
 
 ## Model
 
+I used federated learning with 3 clients
 ![image](https://github.com/user-attachments/assets/3b0a2fdd-1d19-49ae-acd8-21ace4b0235b)
 
 
